@@ -4,7 +4,7 @@
 [screenshots]
 
 # Technical overview
-[oerview here]
+[overview here]
 
 # Documentation
 [link(s) to documentation]
